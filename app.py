@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
+#import numpy as np
 import plotly.express as plt
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as pl
-import time
+#import time
 
 st.title("Comprehension Twitter Airline Sentiment Analysis")
 st.sidebar.title("Comprehension Twitter Airline Sentiment Analysis")
